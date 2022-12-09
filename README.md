@@ -14,9 +14,6 @@ Here is the complete set of features implemented on the portal:
 - ### Requirement Docs (RFQs)
     The client is able to create as many requirement docs as desired. Each requirement doc is a collection of many items that the client wants to procure. The client can set a deadline, before which vendors can send their quotes. All the items will be displayed to the client according to the requirement doc they belong to.
     
-- ### Whatsapp Notifications
-    Once the client sets a deadline and enters the details of his requirements, a Whatsapp notification is sent to those vendors that deal in the supply of the required items. This feature has been implemented using the [Wassenger API](https://wassenger.com/). A link to view the requirement doc is sent to each vendor,  where they can give their quotation.
-    
 - ### Quotations
     The vendors will send their own quotations to any item in the requirement doc which they can provide. The vendors may also update the given quotations if the desire to do so. All the quotations will be diplayed item wise to the client so that they can compare.
     
